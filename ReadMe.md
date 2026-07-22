@@ -18,6 +18,7 @@ By aligning enterprise hiring milestones directly with university student pathwa
 
 ## 🌟 Core Pillars & Strategic Value
 
+```mermaid
 flowchart TD
     subgraph CONNECT["🌐 CONNECT ECOSYSTEM"]
         direction LR
@@ -45,7 +46,7 @@ flowchart TD
     style EN fill:#131926,stroke:#2563eb,color:#fff
     style AA fill:#131926,stroke:#2563eb,color:#fff
     style ST fill:#131926,stroke:#2563eb,color:#fff
-    
+```    
 
 ---
 
